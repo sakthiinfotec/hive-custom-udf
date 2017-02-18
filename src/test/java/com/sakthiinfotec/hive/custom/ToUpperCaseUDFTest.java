@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * Test class for upper case conversion.
  * 
- * @author sakthiinfotec
+ * @author Sakthi
  */
 public class ToUpperCaseUDFTest {
 
