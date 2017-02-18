@@ -7,7 +7,7 @@ import org.apache.hadoop.io.Text;
 /**
  * Custom upper case conversion UDF.
  * 
- * @author sakthinfotec
+ * @author Sakthi
  */
 @Description(name = "ToUpperCaseUDF", value = "Returns upper case of a given string", extended = "SELECT toUpperCase('Hello World!');")
 public class ToUpperCaseUDF extends UDF {
