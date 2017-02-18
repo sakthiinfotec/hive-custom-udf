@@ -1,6 +1,6 @@
 # Hive custom User Defined Function(UDF)
 
-Hive supports of a lot of built-in SQL-like functions in HiveQL. But just in case, if there is a need to write our own UDF, we can write the same in Java.
+Hive supports plenty of built-in SQL-like functions in HiveQL. But just in case, if there is a need to write our own UDF, we can write the same in Java.
 
 ## Implementation steps
 
